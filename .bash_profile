@@ -9,4 +9,4 @@ fi
 
 PATH=$PATH:$HOME/bin
 
-export PATH
+export PATH="$PATH:~/.composer/vendor/bin/"
